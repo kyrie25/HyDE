@@ -38,6 +38,8 @@
 #  This is your file 
 # Add your configurations here
 # export EDITOR=nvim
-export EDITOR=code
+export EDITOR=code-insiders
+
+source /usr/share/nvm/init-nvm.sh
 
 # unset -f command_not_found_handler # Uncomment to prevent searching for commands not found in package manager
